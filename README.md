@@ -5,3 +5,5 @@ I am intressted in programming, math and Games. I strive to learn more about how
 
 
 # Repositories
+Machinelearning-repo: https://github.com/FabianAndersson17/Machinelearning-Fabian-Andersson
+Data processing-repå: https://github.com/FabianAndersson17/Databehandling-Fabian-Andersson
