@@ -11,4 +11,5 @@ with a focus on game programming. I also aspire to work with IT and programming 
 |------|-------------|
 | [Machine learning](https://github.com/FabianAndersson17/Machinelearning-Fabian-Andersson)| Course in Machine learning | 
 | [Data processing](https://github.com/FabianAndersson17/Databehandling-Fabian-Andersson) | Data processing course with pandas |
-| [Python programming](https://github.com/FabianAndersson17/python-programmering-Fabian-Adnersson) | First repo for python with basic code|
+| [Python programming](https://github.com/FabianAndersson17/python-programmering-Fabian-Adnersson) | First repo for python with basic code |
+| [Deep learning](https://github.com/FabianAndersson17/Deep_learning_Fabian_Andersson) | Deep learning course |
